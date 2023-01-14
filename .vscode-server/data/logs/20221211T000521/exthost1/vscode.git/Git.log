@@ -1,0 +1,25 @@
+2022-12-11 00:05:23.442 [info] Validating found git in: git
+2022-12-11 00:05:23.443 [info] Using git 2.25.1 from git
+2022-12-11 00:05:23.443 [info] > git rev-parse --show-toplevel [34ms]
+2022-12-11 00:05:23.457 [info] > git rev-parse --git-dir --git-common-dir [18ms]
+2022-12-11 00:05:23.466 [info] Log level: Info
+2022-12-11 00:05:23.466 [info] Open repository: /home/anarch40z/html-website-templates
+2022-12-11 00:05:23.486 [info] > git rev-parse --show-toplevel [5ms]
+2022-12-11 00:05:23.490 [info] > git remote --verbose [16ms]
+2022-12-11 00:05:23.490 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2022-12-11 00:05:23.492 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-11 00:05:23.496 [info] > git config --get commit.template [11ms]
+2022-12-11 00:05:23.497 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-11 00:05:23.505 [info] > git rev-parse --show-toplevel [4ms]
+2022-12-11 00:05:23.509 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2022-12-11 00:05:23.509 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-11 00:05:23.572 [info] > git status -z -uall [95ms]
+2022-12-11 00:05:23.610 [info] > git remote --verbose [18ms]
+2022-12-11 00:05:23.611 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+2022-12-11 00:05:23.614 [info] > git config --get commit.template [14ms]
+2022-12-11 00:05:23.619 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-11 00:05:23.693 [info] > git status -z -uall [98ms]
+2022-12-11 00:05:24.173 [info] > git check-ignore -v -z --stdin [47ms]
+2022-12-11 00:05:29.283 [info] > git show --textconv :One Page Portfolio Website Template/index.html [24ms]
+2022-12-11 00:05:29.283 [info] > git ls-files --stage -- /home/anarch40z/html-website-templates/One Page Portfolio Website Template/index.html [13ms]
+2022-12-11 00:05:29.291 [info] > git cat-file -s d38a70d5d06ecd10f40318878f8184431077bca8 [3ms]

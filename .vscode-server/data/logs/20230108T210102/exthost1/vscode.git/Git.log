@@ -1,0 +1,92 @@
+2023-01-08 21:01:11.826 [info] Log level: Info
+2023-01-08 21:01:11.826 [info] Validating found git in: "git"
+2023-01-08 21:01:11.826 [info] Using git "2.25.1" from "git"
+2023-01-08 21:01:11.826 [info] > git rev-parse --show-toplevel [243ms]
+2023-01-08 21:01:11.826 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.826 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 21:01:11.826 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.826 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 21:01:11.826 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.826 [info] > git rev-parse --show-toplevel [5ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [6ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [7ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [3ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:11.827 [info] > git rev-parse --show-toplevel [6ms]
+2023-01-08 21:01:11.827 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 21:01:17.237 [info] > git config --global --add safe.directory /home/anarch40z/machine-learning [44ms]
+2023-01-08 21:01:17.254 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 21:01:17.271 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-08 21:01:17.292 [info] Open repository: /home/anarch40z/machine-learning
+2023-01-08 21:01:17.317 [info] > git config --get commit.template [2ms]
+2023-01-08 21:01:17.833 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [490ms]
+2023-01-08 21:01:17.938 [info] > git check-ignore -v -z --stdin [31ms]
+2023-01-08 21:01:17.939 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [49ms]
+2023-01-08 21:01:18.420 [info] > git status -z -uall [557ms]
+2023-01-08 21:01:18.472 [info] > git config --get commit.template [2ms]
+2023-01-08 21:01:18.487 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-01-08 21:01:18.520 [info] > git status -z -uall [20ms]
+2023-01-08 21:01:18.523 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2023-01-08 21:02:10.472 [info] > git check-ignore -v -z --stdin [3ms]

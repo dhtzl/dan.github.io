@@ -1,0 +1,21 @@
+2022-12-15 23:59:06.068 [info] Extension host with pid 170 started
+2022-12-15 23:59:06.102 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/7357c8406dd7ab776bfe1fd154ad47e5/vscode.lock': Lock acquired.
+2022-12-15 23:59:06.174 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-12-15 23:59:06.373 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-15 23:59:06.404 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-15 23:59:06.405 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-15 23:59:06.405 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-15 23:59:06.406 [info] Eager extensions activated
+2022-12-15 23:59:06.801 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2022-12-15 23:59:06.896 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-15 23:59:06.897 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-15 23:59:06.897 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-15 23:59:07.476 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1903
+2022-12-15 23:59:07.871 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1903
+2022-12-15 23:59:09.372 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1903
+2022-12-15 23:59:39.441 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1903
+2022-12-15 23:59:52.662 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1903
+2022-12-16 00:07:45.660 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1903
+2022-12-16 00:07:46.695 [info] Extension host terminating: received terminate message from renderer
+2022-12-16 00:07:46.696 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/7357c8406dd7ab776bfe1fd154ad47e5/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-16 00:07:46.776 [info] Extension host with pid 170 exiting with code 0

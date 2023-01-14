@@ -1,0 +1,30 @@
+2022-12-17 01:01:14.222 [info] Log level: Info
+2022-12-17 01:01:14.223 [info] Validating found git in: "git"
+2022-12-17 01:01:14.223 [info] Using git "2.25.1" from "git"
+2022-12-17 01:01:14.223 [info] > git rev-parse --show-toplevel [207ms]
+2022-12-17 01:01:14.223 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2022-12-17 01:01:14.223 [info] Open repository: /root
+2022-12-17 01:01:14.223 [info] > git rev-parse --show-toplevel [112ms]
+2022-12-17 01:01:14.223 [info] > git rev-parse --show-toplevel [24ms]
+2022-12-17 01:01:14.223 [info] > git config --get commit.template [142ms]
+2022-12-17 01:01:14.223 [info] > git rev-parse --show-toplevel [10ms]
+2022-12-17 01:01:14.236 [warning] No remotes found in the git config file.
+2022-12-17 01:01:14.260 [info] > git remote --verbose [24ms]
+2022-12-17 01:01:14.260 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [28ms]
+2022-12-17 01:01:14.268 [info] > git rev-parse --show-toplevel [40ms]
+2022-12-17 01:01:14.273 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2022-12-17 01:01:14.285 [info] > git rev-parse --show-toplevel [14ms]
+2022-12-17 01:01:14.326 [info] > git status -z -uall [61ms]
+2022-12-17 01:01:14.391 [info] > git config --get commit.template [2ms]
+2022-12-17 01:01:14.401 [warning] No remotes found in the git config file.
+2022-12-17 01:01:14.403 [info] > git remote --verbose [2ms]
+2022-12-17 01:01:14.403 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2022-12-17 01:01:14.416 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2022-12-17 01:01:14.718 [info] > git status -z -uall [308ms]
+2022-12-17 01:01:14.718 [info] > git check-ignore -v -z --stdin [10ms]
+2022-12-17 01:01:16.183 [info] > git config --get commit.template [1ms]
+2022-12-17 01:01:16.191 [warning] No remotes found in the git config file.
+2022-12-17 01:01:16.192 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2022-12-17 01:01:16.193 [info] > git remote --verbose [2ms]
+2022-12-17 01:01:16.202 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2022-12-17 01:01:16.209 [info] > git status -z -uall [12ms]

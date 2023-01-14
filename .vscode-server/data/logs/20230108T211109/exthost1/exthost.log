@@ -1,0 +1,37 @@
+2023-01-08 21:11:12.883 [info] Extension host with pid 172 started
+2023-01-08 21:11:12.924 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/9c2439dde0e7d203062e7fe3cbcb9f1d/vscode.lock': Lock acquired.
+2023-01-08 21:11:13.003 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-01-08 21:11:13.005 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-08 21:11:13.162 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-08 21:11:13.163 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-08 21:11:13.871 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-08 21:11:13.871 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-08 21:11:13.872 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-08 21:11:13.872 [info] Eager extensions activated
+2023-01-08 21:11:14.650 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-01-08 21:11:14.651 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-01-08 21:11:14.652 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-01-08 21:11:14.653 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-01-08 21:11:14.654 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-08 21:11:14.655 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-08 21:11:14.655 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-09 18:43:31.394 [error] Error: XHR failed
+    at b.onerror (vscode-file://vscode-app/c:/Program%20Files/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1428) jupyter.installPythonExtensionViaKernelPicker {"value":"ms-toolsai.jupyter","c":"ms-toolsai.jupyter"}
+2023-01-09 18:43:35.330 [error] Error: XHR failed
+    at b.onerror (vscode-file://vscode-app/c:/Program%20Files/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1428) jupyter.installPythonExtensionViaKernelPicker {"value":"ms-toolsai.jupyter","c":"ms-toolsai.jupyter"}
+2023-01-09 18:43:37.520 [error] Error: XHR failed
+    at b.onerror (vscode-file://vscode-app/c:/Program%20Files/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1428) jupyter.installPythonExtensionViaKernelPicker {"value":"ms-toolsai.jupyter","c":"ms-toolsai.jupyter"}
+2023-01-09 18:43:39.104 [error] Error: XHR failed
+    at b.onerror (vscode-file://vscode-app/c:/Program%20Files/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1428) jupyter.installPythonExtensionViaKernelPicker {"value":"ms-toolsai.jupyter","c":"ms-toolsai.jupyter"}
+2023-01-11 19:50:49.438 [error] Error: XHR failed
+    at b.onerror (vscode-file://vscode-app/c:/Program%20Files/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1428) jupyter.installPythonExtensionViaKernelPicker {"value":"ms-toolsai.jupyter","c":"ms-toolsai.jupyter"}
+2023-01-11 19:51:04.718 [error] Error: XHR failed
+    at b.onerror (vscode-file://vscode-app/c:/Program%20Files/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1428) jupyter.installPythonExtensionViaKernelPicker {"value":"ms-toolsai.jupyter","c":"ms-toolsai.jupyter"}
+2023-01-11 19:51:07.266 [error] Error: XHR failed
+    at b.onerror (vscode-file://vscode-app/c:/Program%20Files/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1428) jupyter.installPythonExtensionViaKernelPicker {"value":"ms-toolsai.jupyter","c":"ms-toolsai.jupyter"}
+2023-01-11 19:51:13.065 [error] Error: XHR failed
+    at b.onerror (vscode-file://vscode-app/c:/Program%20Files/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1428) jupyter.installPythonExtensionViaKernelPicker {"value":"ms-toolsai.jupyter","c":"ms-toolsai.jupyter"}
+2023-01-11 19:51:17.167 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onView:dockerContainers'
+2023-01-11 19:52:29.767 [info] Extension host terminating: received terminate message from renderer
+2023-01-11 19:52:29.770 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/9c2439dde0e7d203062e7fe3cbcb9f1d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-01-11 19:52:29.948 [info] Extension host with pid 172 exiting with code 0

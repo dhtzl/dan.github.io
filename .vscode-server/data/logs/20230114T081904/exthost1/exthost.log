@@ -1,0 +1,31 @@
+2023-01-14 08:19:07.145 [info] Extension host with pid 263 started
+2023-01-14 08:19:07.189 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/7357c8406dd7ab776bfe1fd154ad47e5/vscode.lock': Lock acquired.
+2023-01-14 08:19:07.259 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-14 08:19:07.435 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-14 08:19:07.436 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-14 08:19:07.908 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-14 08:19:07.909 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-14 08:19:07.910 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-14 08:19:07.911 [info] Eager extensions activated
+2023-01-14 08:19:08.145 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2317
+2023-01-14 08:19:08.666 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-14 08:19:08.667 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-14 08:19:08.667 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-14 08:19:09.178 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2318
+2023-01-14 08:19:10.817 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2319
+2023-01-14 08:19:15.006 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-01-14 08:19:15.006 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-01-14 08:19:15.930 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2320
+2023-01-14 08:19:16.045 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-01-14 08:19:23.309 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2315
+2023-01-14 08:19:29.261 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2315
+2023-01-14 08:19:37.614 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2315
+2023-01-14 08:19:42.829 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2326
+2023-01-14 08:19:47.936 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2326
+2023-01-14 08:19:53.091 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2326
+2023-01-14 08:19:58.210 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2326
+2023-01-14 08:20:03.338 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2326
+2023-01-14 08:20:10.275 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2326
+2023-01-14 08:20:15.342 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2326
+2023-01-14 08:20:20.418 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2326
+2023-01-14 08:20:25.499 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2326

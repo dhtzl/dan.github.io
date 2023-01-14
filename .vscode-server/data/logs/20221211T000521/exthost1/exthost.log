@@ -1,0 +1,18 @@
+2022-12-11 00:05:22.465 [info] Extension host with pid 249 started
+2022-12-11 00:05:22.521 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-11 00:05:22.536 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/d572adad158998d9c673cdec1bda224b/vscode.lock': Lock acquired.
+2022-12-11 00:05:23.138 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-11 00:05:23.138 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-11 00:05:23.395 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-11 00:05:23.395 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-11 00:05:23.396 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-11 00:05:23.396 [info] Eager extensions activated
+2022-12-11 00:05:23.997 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-11 00:05:23.997 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-11 00:05:23.997 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-11 00:05:28.871 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2022-12-11 00:06:53.647 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2022-12-11 00:06:53.647 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-chrome'
+2022-12-11 00:20:26.814 [info] Extension host terminating: received terminate message from renderer
+2022-12-11 00:20:26.815 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/d572adad158998d9c673cdec1bda224b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-11 00:20:26.869 [info] Extension host with pid 249 exiting with code 0

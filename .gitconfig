@@ -1,0 +1,7 @@
+[user]
+	email = daniel.hutajulu404@gmail.com
+	name = dhtzl
+[credential]
+	helper = cache --timeout 7200
+[safe]
+	directory = /home/anarch40z/machine-learning

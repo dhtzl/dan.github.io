@@ -1,0 +1,20 @@
+2023-01-08 21:01:05.091 [info] Extension host with pid 861 started
+2023-01-08 21:01:05.213 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/9c2439dde0e7d203062e7fe3cbcb9f1d/vscode.lock': Lock acquired.
+2023-01-08 21:01:05.589 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-01-08 21:01:05.591 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-08 21:01:05.819 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-08 21:01:05.820 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-08 21:01:06.412 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-08 21:01:06.413 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-08 21:01:06.423 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-08 21:01:06.425 [info] Eager extensions activated
+2023-01-08 21:01:07.445 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-08 21:01:07.446 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-08 21:01:07.447 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-08 21:01:08.085 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-01-08 21:01:08.091 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-01-08 21:01:08.092 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-01-08 21:01:08.094 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-01-08 21:02:35.621 [info] Extension host terminating: received terminate message from renderer
+2023-01-08 21:02:35.622 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/9c2439dde0e7d203062e7fe3cbcb9f1d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-01-08 21:02:35.714 [info] Extension host with pid 861 exiting with code 0

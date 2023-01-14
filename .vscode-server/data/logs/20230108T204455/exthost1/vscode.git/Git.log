@@ -1,0 +1,103 @@
+2023-01-08 20:45:00.985 [info] Log level: Info
+2023-01-08 20:45:00.985 [info] Validating found git in: "git"
+2023-01-08 20:45:00.985 [info] Using git "2.25.1" from "git"
+2023-01-08 20:45:00.985 [info] > git rev-parse --show-toplevel [109ms]
+2023-01-08 20:45:00.985 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.985 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 20:45:00.985 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.985 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 20:45:00.985 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.985 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-08 20:45:00.985 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.986 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 20:45:00.986 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.986 [info] > git rev-parse --show-toplevel [3ms]
+2023-01-08 20:45:00.986 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.986 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 20:45:00.986 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.986 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 20:45:00.986 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.986 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-08 20:45:00.986 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.986 [info] > git rev-parse --show-toplevel [3ms]
+2023-01-08 20:45:00.986 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.986 [info] > git rev-parse --show-toplevel [9ms]
+2023-01-08 20:45:00.986 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.986 [info] > git rev-parse --show-toplevel [204ms]
+2023-01-08 20:45:00.986 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.986 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 20:45:00.986 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.986 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-08 20:45:00.987 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.987 [info] > git rev-parse --show-toplevel [35ms]
+2023-01-08 20:45:00.987 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:45:00.987 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-08 20:45:00.987 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:46:11.430 [info] > git rev-parse --show-toplevel [4ms]
+2023-01-08 20:46:11.430 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:53:37.876 [info] > git rev-parse --show-toplevel [3ms]
+2023-01-08 20:53:37.876 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:54:06.746 [info] > git rev-parse --show-toplevel [4ms]
+2023-01-08 20:54:06.746 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2023-01-08 20:54:06.810 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-08 20:54:06.810 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning

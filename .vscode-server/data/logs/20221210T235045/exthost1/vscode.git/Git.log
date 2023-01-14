@@ -1,0 +1,414 @@
+2022-12-10 23:50:50.912 [info] Validating found git in: git
+2022-12-10 23:50:50.912 [info] Using git 2.25.1 from git
+2022-12-10 23:50:50.912 [info] > git rev-parse --show-toplevel [70ms]
+2022-12-10 23:50:50.912 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:50:50.912 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-10 23:50:50.912 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:50:50.912 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-10 23:50:50.912 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:50:50.912 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-10 23:50:50.912 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:50:50.912 [info] > git rev-parse --show-toplevel [71ms]
+2022-12-10 23:50:50.912 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:50:50.912 [info] > git rev-parse --show-toplevel [7ms]
+2022-12-10 23:50:50.912 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:50:50.912 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-10 23:50:50.913 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:50:51.171 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-10 23:50:51.171 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:51:18.776 [info] > git rev-parse --show-toplevel [9ms]
+2022-12-10 23:51:18.793 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2022-12-10 23:51:18.805 [info] Log level: Info
+2022-12-10 23:51:18.805 [info] Open repository: /root
+2022-12-10 23:51:18.860 [info] > git remote --verbose [26ms]
+2022-12-10 23:51:18.861 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [48ms]
+2022-12-10 23:51:18.868 [info] > git config --get commit.template [8ms]
+2022-12-10 23:51:18.870 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2022-12-10 23:51:19.018 [info] > git status -z -uall [177ms]
+2022-12-10 23:51:19.114 [info] > git remote --verbose [11ms]
+2022-12-10 23:51:19.115 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+2022-12-10 23:51:19.141 [info] > git config --get commit.template [29ms]
+2022-12-10 23:51:19.576 [info] > git status -z -uall [470ms]
+2022-12-10 23:51:19.576 [info] > git check-ignore -v -z --stdin [31ms]
+2022-12-10 23:51:19.633 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [56ms]
+2022-12-10 23:51:19.704 [info] > git show --textconv :.vscode-server/data/Machine/settings.json [21ms]
+2022-12-10 23:51:19.705 [info] > git ls-files --stage -- /root/.vscode-server/data/Machine/settings.json [4ms]
+2022-12-10 23:51:20.162 [info] > git rev-parse --show-toplevel [51ms]
+2022-12-10 23:51:20.162 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:51:22.641 [info] > git remote --verbose [27ms]
+2022-12-10 23:51:22.641 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+2022-12-10 23:51:22.644 [info] > git config --get commit.template [3ms]
+2022-12-10 23:51:22.644 [info] > git status -z -uall [17ms]
+2022-12-10 23:51:22.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:51:25.376 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-10 23:51:25.376 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:51:27.703 [info] > git remote --verbose [10ms]
+2022-12-10 23:51:27.703 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+2022-12-10 23:51:27.704 [info] > git config --get commit.template [2ms]
+2022-12-10 23:51:27.713 [info] > git status -z -uall [16ms]
+2022-12-10 23:51:27.714 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2022-12-10 23:51:32.758 [info] > git remote --verbose [11ms]
+2022-12-10 23:51:32.758 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2022-12-10 23:51:32.759 [info] > git config --get commit.template [2ms]
+2022-12-10 23:51:32.768 [info] > git status -z -uall [17ms]
+2022-12-10 23:51:32.769 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:51:37.406 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-10 23:51:37.406 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:51:37.762 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-10 23:51:37.762 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:51:38.634 [info] > git remote --verbose [12ms]
+2022-12-10 23:51:38.634 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2022-12-10 23:51:38.635 [info] > git config --get commit.template [2ms]
+2022-12-10 23:51:38.642 [info] > git status -z -uall [15ms]
+2022-12-10 23:51:38.642 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:51:43.682 [info] > git remote --verbose [11ms]
+2022-12-10 23:51:43.682 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2022-12-10 23:51:43.683 [info] > git config --get commit.template [2ms]
+2022-12-10 23:51:43.701 [info] > git status -z -uall [26ms]
+2022-12-10 23:51:43.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:51:48.748 [info] > git remote --verbose [13ms]
+2022-12-10 23:51:48.748 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2022-12-10 23:51:48.749 [info] > git config --get commit.template [3ms]
+2022-12-10 23:51:48.757 [info] > git status -z -uall [18ms]
+2022-12-10 23:51:48.762 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2022-12-10 23:51:53.802 [info] > git remote --verbose [12ms]
+2022-12-10 23:51:53.802 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2022-12-10 23:51:53.803 [info] > git config --get commit.template [2ms]
+2022-12-10 23:51:53.810 [info] > git status -z -uall [15ms]
+2022-12-10 23:51:53.815 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2022-12-10 23:51:58.858 [info] > git remote --verbose [13ms]
+2022-12-10 23:51:58.858 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2022-12-10 23:51:58.859 [info] > git config --get commit.template [2ms]
+2022-12-10 23:51:58.872 [info] > git status -z -uall [22ms]
+2022-12-10 23:51:58.873 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:52:03.918 [info] > git remote --verbose [13ms]
+2022-12-10 23:52:03.918 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2022-12-10 23:52:03.919 [info] > git config --get commit.template [2ms]
+2022-12-10 23:52:03.927 [info] > git status -z -uall [17ms]
+2022-12-10 23:52:03.928 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:52:08.981 [info] > git remote --verbose [17ms]
+2022-12-10 23:52:08.982 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+2022-12-10 23:52:08.983 [info] > git config --get commit.template [3ms]
+2022-12-10 23:52:08.984 [info] > git status -z -uall [12ms]
+2022-12-10 23:52:08.999 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:52:14.049 [info] > git remote --verbose [14ms]
+2022-12-10 23:52:14.049 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2022-12-10 23:52:14.050 [info] > git config --get commit.template [2ms]
+2022-12-10 23:52:14.058 [info] > git status -z -uall [17ms]
+2022-12-10 23:52:14.059 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:52:19.109 [info] > git remote --verbose [14ms]
+2022-12-10 23:52:19.109 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2022-12-10 23:52:19.110 [info] > git config --get commit.template [2ms]
+2022-12-10 23:52:19.121 [info] > git status -z -uall [20ms]
+2022-12-10 23:52:19.121 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:53:06.953 [info] > git remote --verbose [15ms]
+2022-12-10 23:53:06.954 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+2022-12-10 23:53:06.955 [info] > git config --get commit.template [3ms]
+2022-12-10 23:53:06.966 [info] > git status -z -uall [24ms]
+2022-12-10 23:53:06.968 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2022-12-10 23:53:12.041 [info] > git remote --verbose [12ms]
+2022-12-10 23:53:12.041 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2022-12-10 23:53:12.043 [info] > git config --get commit.template [2ms]
+2022-12-10 23:53:12.050 [info] > git status -z -uall [16ms]
+2022-12-10 23:53:12.051 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:53:17.119 [info] > git remote --verbose [17ms]
+2022-12-10 23:53:17.119 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+2022-12-10 23:53:17.120 [info] > git config --get commit.template [4ms]
+2022-12-10 23:53:17.129 [info] > git status -z -uall [21ms]
+2022-12-10 23:53:17.131 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2022-12-10 23:53:35.556 [info] > git remote --verbose [16ms]
+2022-12-10 23:53:35.559 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+2022-12-10 23:53:35.560 [info] > git config --get commit.template [7ms]
+2022-12-10 23:53:35.569 [info] > git status -z -uall [25ms]
+2022-12-10 23:53:35.570 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:53:36.707 [info] > git rev-parse --show-toplevel [5ms]
+2022-12-10 23:53:36.708 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:53:40.622 [info] > git remote --verbose [14ms]
+2022-12-10 23:53:40.623 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2022-12-10 23:53:40.624 [info] > git config --get commit.template [4ms]
+2022-12-10 23:53:40.638 [info] > git status -z -uall [25ms]
+2022-12-10 23:53:40.639 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2022-12-10 23:53:45.695 [info] > git remote --verbose [15ms]
+2022-12-10 23:53:45.695 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+2022-12-10 23:53:45.697 [info] > git config --get commit.template [4ms]
+2022-12-10 23:53:45.704 [info] > git status -z -uall [19ms]
+2022-12-10 23:53:45.710 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2022-12-10 23:53:50.748 [info] > git remote --verbose [11ms]
+2022-12-10 23:53:50.749 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2022-12-10 23:53:50.749 [info] > git config --get commit.template [2ms]
+2022-12-10 23:53:50.756 [info] > git status -z -uall [14ms]
+2022-12-10 23:53:50.756 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:54:47.592 [info] > git remote --verbose [16ms]
+2022-12-10 23:54:47.592 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+2022-12-10 23:54:47.594 [info] > git config --get commit.template [3ms]
+2022-12-10 23:54:47.602 [info] > git status -z -uall [19ms]
+2022-12-10 23:54:47.607 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2022-12-10 23:54:48.202 [info] > git rev-parse --show-toplevel [7ms]
+2022-12-10 23:54:48.203 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:54:48.681 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-10 23:54:48.681 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:54:52.642 [info] > git remote --verbose [10ms]
+2022-12-10 23:54:52.642 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+2022-12-10 23:54:52.643 [info] > git config --get commit.template [2ms]
+2022-12-10 23:54:52.651 [info] > git status -z -uall [14ms]
+2022-12-10 23:54:52.651 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2022-12-10 23:54:57.700 [info] > git remote --verbose [13ms]
+2022-12-10 23:54:57.700 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2022-12-10 23:54:57.702 [info] > git config --get commit.template [5ms]
+2022-12-10 23:54:57.703 [info] > git status -z -uall [13ms]
+2022-12-10 23:54:57.717 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:55:15.417 [info] > git remote --verbose [17ms]
+2022-12-10 23:55:15.417 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [25ms]
+2022-12-10 23:55:15.419 [info] > git config --get commit.template [4ms]
+2022-12-10 23:55:15.419 [info] > git status -z -uall [14ms]
+2022-12-10 23:55:15.435 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:55:15.473 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-10 23:55:15.473 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:55:20.484 [info] > git remote --verbose [11ms]
+2022-12-10 23:55:20.484 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2022-12-10 23:55:20.485 [info] > git config --get commit.template [3ms]
+2022-12-10 23:55:20.492 [info] > git status -z -uall [15ms]
+2022-12-10 23:55:20.492 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:55:25.535 [info] > git remote --verbose [11ms]
+2022-12-10 23:55:25.535 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2022-12-10 23:55:25.536 [info] > git config --get commit.template [2ms]
+2022-12-10 23:55:25.543 [info] > git status -z -uall [15ms]
+2022-12-10 23:55:25.544 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:55:30.586 [info] > git remote --verbose [11ms]
+2022-12-10 23:55:30.587 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2022-12-10 23:55:30.587 [info] > git config --get commit.template [2ms]
+2022-12-10 23:55:30.594 [info] > git status -z -uall [14ms]
+2022-12-10 23:55:30.595 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:55:56.498 [info] > git remote --verbose [26ms]
+2022-12-10 23:55:56.498 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [35ms]
+2022-12-10 23:55:56.499 [info] > git config --get commit.template [3ms]
+2022-12-10 23:55:56.508 [info] > git status -z -uall [23ms]
+2022-12-10 23:55:56.509 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:56:01.569 [info] > git remote --verbose [11ms]
+2022-12-10 23:56:01.569 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2022-12-10 23:56:01.570 [info] > git config --get commit.template [3ms]
+2022-12-10 23:56:01.576 [info] > git status -z -uall [14ms]
+2022-12-10 23:56:01.577 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:56:06.624 [info] > git remote --verbose [13ms]
+2022-12-10 23:56:06.624 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2022-12-10 23:56:06.625 [info] > git config --get commit.template [3ms]
+2022-12-10 23:56:06.634 [info] > git status -z -uall [19ms]
+2022-12-10 23:56:06.635 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2022-12-10 23:56:11.683 [info] > git remote --verbose [11ms]
+2022-12-10 23:56:11.684 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2022-12-10 23:56:11.684 [info] > git config --get commit.template [2ms]
+2022-12-10 23:56:11.691 [info] > git status -z -uall [15ms]
+2022-12-10 23:56:11.692 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:56:16.732 [info] > git remote --verbose [11ms]
+2022-12-10 23:56:16.733 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2022-12-10 23:56:16.733 [info] > git config --get commit.template [2ms]
+2022-12-10 23:56:16.740 [info] > git status -z -uall [15ms]
+2022-12-10 23:56:16.741 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:56:31.016 [info] > git remote --verbose [23ms]
+2022-12-10 23:56:31.017 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [40ms]
+2022-12-10 23:56:31.018 [info] > git config --get commit.template [4ms]
+2022-12-10 23:56:31.028 [info] > git status -z -uall [25ms]
+2022-12-10 23:56:31.034 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2022-12-10 23:56:33.491 [info] > git rev-parse --show-toplevel [5ms]
+2022-12-10 23:56:33.491 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:56:36.081 [info] > git remote --verbose [12ms]
+2022-12-10 23:56:36.081 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2022-12-10 23:56:36.083 [info] > git config --get commit.template [2ms]
+2022-12-10 23:56:36.091 [info] > git status -z -uall [16ms]
+2022-12-10 23:56:36.091 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:56:36.453 [info] > git rev-parse --show-toplevel [8ms]
+2022-12-10 23:56:36.453 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:57:00.999 [info] > git remote --verbose [24ms]
+2022-12-10 23:57:01.000 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [38ms]
+2022-12-10 23:57:01.001 [info] > git config --get commit.template [4ms]
+2022-12-10 23:57:01.011 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:57:01.011 [info] > git status -z -uall [24ms]
+2022-12-10 23:57:06.062 [info] > git remote --verbose [13ms]
+2022-12-10 23:57:06.063 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2022-12-10 23:57:06.066 [info] > git config --get commit.template [6ms]
+2022-12-10 23:57:06.077 [info] > git status -z -uall [23ms]
+2022-12-10 23:57:06.077 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2022-12-10 23:57:12.550 [info] > git remote --verbose [20ms]
+2022-12-10 23:57:12.551 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+2022-12-10 23:57:12.552 [info] > git config --get commit.template [3ms]
+2022-12-10 23:57:12.565 [info] > git status -z -uall [28ms]
+2022-12-10 23:57:12.566 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:57:14.814 [info] > git rev-parse --show-toplevel [4ms]
+2022-12-10 23:57:14.814 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:57:17.635 [info] > git remote --verbose [13ms]
+2022-12-10 23:57:17.636 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2022-12-10 23:57:17.637 [info] > git config --get commit.template [2ms]
+2022-12-10 23:57:17.644 [info] > git status -z -uall [16ms]
+2022-12-10 23:57:17.645 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:57:22.692 [info] > git remote --verbose [12ms]
+2022-12-10 23:57:22.692 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2022-12-10 23:57:22.694 [info] > git config --get commit.template [3ms]
+2022-12-10 23:57:22.701 [info] > git status -z -uall [17ms]
+2022-12-10 23:57:22.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:57:27.745 [info] > git remote --verbose [12ms]
+2022-12-10 23:57:27.745 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2022-12-10 23:57:27.746 [info] > git config --get commit.template [3ms]
+2022-12-10 23:57:27.753 [info] > git status -z -uall [15ms]
+2022-12-10 23:57:27.754 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:57:32.799 [info] > git remote --verbose [11ms]
+2022-12-10 23:57:32.799 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2022-12-10 23:57:32.800 [info] > git config --get commit.template [2ms]
+2022-12-10 23:57:32.808 [info] > git status -z -uall [16ms]
+2022-12-10 23:57:32.808 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:57:38.708 [info] > git remote --verbose [18ms]
+2022-12-10 23:57:38.709 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+2022-12-10 23:57:38.710 [info] > git config --get commit.template [4ms]
+2022-12-10 23:57:38.719 [info] > git status -z -uall [23ms]
+2022-12-10 23:57:38.727 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2022-12-10 23:57:43.774 [info] > git remote --verbose [12ms]
+2022-12-10 23:57:43.774 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2022-12-10 23:57:43.775 [info] > git config --get commit.template [2ms]
+2022-12-10 23:57:43.782 [info] > git status -z -uall [16ms]
+2022-12-10 23:57:43.782 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:57:52.230 [info] > git remote --verbose [19ms]
+2022-12-10 23:57:52.230 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [29ms]
+2022-12-10 23:57:52.232 [info] > git config --get commit.template [5ms]
+2022-12-10 23:57:52.242 [info] > git status -z -uall [25ms]
+2022-12-10 23:57:52.243 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:57:57.293 [info] > git remote --verbose [12ms]
+2022-12-10 23:57:57.294 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2022-12-10 23:57:57.295 [info] > git config --get commit.template [2ms]
+2022-12-10 23:57:57.302 [info] > git status -z -uall [16ms]
+2022-12-10 23:57:57.302 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:58:15.420 [info] > git remote --verbose [19ms]
+2022-12-10 23:58:15.420 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+2022-12-10 23:58:15.421 [info] > git config --get commit.template [4ms]
+2022-12-10 23:58:15.430 [info] > git status -z -uall [22ms]
+2022-12-10 23:58:15.430 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:58:16.834 [info] > git rev-parse --show-toplevel [4ms]
+2022-12-10 23:58:16.835 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:58:20.484 [info] > git remote --verbose [12ms]
+2022-12-10 23:58:20.485 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2022-12-10 23:58:20.485 [info] > git config --get commit.template [2ms]
+2022-12-10 23:58:20.492 [info] > git status -z -uall [15ms]
+2022-12-10 23:58:20.492 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:58:25.535 [info] > git remote --verbose [11ms]
+2022-12-10 23:58:25.535 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2022-12-10 23:58:25.536 [info] > git config --get commit.template [3ms]
+2022-12-10 23:58:25.543 [info] > git status -z -uall [14ms]
+2022-12-10 23:58:25.543 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:58:40.989 [info] > git remote --verbose [17ms]
+2022-12-10 23:58:40.989 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [34ms]
+2022-12-10 23:58:40.990 [info] > git config --get commit.template [2ms]
+2022-12-10 23:58:40.998 [info] > git status -z -uall [21ms]
+2022-12-10 23:58:40.999 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:58:46.051 [info] > git remote --verbose [12ms]
+2022-12-10 23:58:46.051 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2022-12-10 23:58:46.052 [info] > git config --get commit.template [3ms]
+2022-12-10 23:58:46.059 [info] > git status -z -uall [16ms]
+2022-12-10 23:58:46.060 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:58:47.053 [info] > git rev-parse --show-toplevel [6ms]
+2022-12-10 23:58:47.053 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:58:51.110 [info] > git remote --verbose [14ms]
+2022-12-10 23:58:51.110 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+2022-12-10 23:58:51.111 [info] > git config --get commit.template [2ms]
+2022-12-10 23:58:51.119 [info] > git status -z -uall [18ms]
+2022-12-10 23:58:51.119 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-10 23:58:52.236 [info] > git rev-parse --show-toplevel [6ms]
+2022-12-10 23:58:52.236 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:58:53.447 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-10 23:58:53.447 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:58:54.852 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-10 23:58:54.852 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:58:56.185 [info] > git remote --verbose [29ms]
+2022-12-10 23:58:56.186 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [36ms]
+2022-12-10 23:58:56.189 [info] > git rev-parse --show-toplevel [6ms]
+2022-12-10 23:58:56.189 [info] fatal: detected dubious ownership in repository at '/home/anarch40z/machine-learning'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/anarch40z/machine-learning
+2022-12-10 23:58:56.190 [info] > git config --get commit.template [17ms]
+2022-12-10 23:58:56.191 [info] > git status -z -uall [28ms]
+2022-12-10 23:58:56.209 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:59:07.809 [info] > git remote --verbose [26ms]
+2022-12-10 23:59:07.809 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [37ms]
+2022-12-10 23:59:07.810 [info] > git config --get commit.template [3ms]
+2022-12-10 23:59:07.818 [info] > git status -z -uall [22ms]
+2022-12-10 23:59:07.818 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-10 23:59:12.868 [info] > git remote --verbose [11ms]
+2022-12-10 23:59:12.868 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2022-12-10 23:59:12.869 [info] > git config --get commit.template [2ms]
+2022-12-10 23:59:12.875 [info] > git status -z -uall [14ms]
+2022-12-10 23:59:12.876 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-12-11 00:00:06.239 [info] > git remote --verbose [20ms]
+2022-12-11 00:00:06.239 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+2022-12-11 00:00:06.242 [info] > git config --get commit.template [4ms]
+2022-12-11 00:00:06.257 [info] > git status -z -uall [32ms]
+2022-12-11 00:00:06.258 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]

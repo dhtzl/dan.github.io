@@ -1,0 +1,37 @@
+Visual Studio Code (1.74.1, wsl, desktop)
+Jupyter Extension Version: 2022.11.1003412109.
+Python Extension not installed.
+Workspace folder /home/anarch40z/machine-learning
+info 21:11:15.973: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 21:11:16.756: LSP Notebooks experiment is disabled -- not using Pylance
+info 21:11:16.768: Find preferred kernel for /home/anarch40z/machine-learning/pertemuan9/natural_language_processing.ipynb with metadata {"colab":{"collapsed_sections":[],"name":"natural_language_processing.ipynb","provenance":[],"toc_visible":true},"kernelspec":{"display_name":"Python 3.8.10 64-bit","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.10"},"vscode":{"interpreter":{"hash":"916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1"}}} & preferred interpreter <undefined>
+info 21:11:16.784: Find preferred kernel for /home/anarch40z/machine-learning/pertemuan9/natural_language_processing.ipynb with metadata {"colab":{"collapsed_sections":[],"name":"natural_language_processing.ipynb","provenance":[],"toc_visible":true},"kernelspec":{"display_name":"Python 3.8.10 64-bit","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.10"},"vscode":{"interpreter":{"hash":"916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1"}}} & preferred interpreter <undefined>
+info 21:11:24.596: Find preferred kernel for /home/anarch40z/machine-learning/pertemuan2/pert2.ipynb with metadata {"kernelspec":{"display_name":"Python 3.8.10 64-bit","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.10"},"vscode":{"interpreter":{"hash":"916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1"}}} & preferred interpreter <undefined>
+info 21:11:24.597: Find preferred kernel for /home/anarch40z/machine-learning/pertemuan2/pert2.ipynb with metadata {"kernelspec":{"display_name":"Python 3.8.10 64-bit","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.10"},"vscode":{"interpreter":{"hash":"916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1"}}} & preferred interpreter <undefined>
+error 21:12:23.537: Failed to install Python Extension via Kernel Picker command
+warn 21:12:23.541: DataScience Error [Error: Failed to install the Python Extension.
+	at _.installPythonExtensionViaKernelPicker (/root/.vscode-server/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2234164)
+	at async s.h (/root/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/workbench/api/node/extensionHostProcess.js:94:107614)]
+error 21:12:28.614: Failed to install Python Extension via Kernel Picker command
+warn 21:12:28.615: DataScience Error [Error: Failed to install the Python Extension.
+	at _.installPythonExtensionViaKernelPicker (/root/.vscode-server/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2234164)
+	at async s.h (/root/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/workbench/api/node/extensionHostProcess.js:94:107614)]
+error 18:44:45.910: Failed to install Python Extension via Kernel Picker command
+warn 18:44:45.911: DataScience Error [Error: Failed to install the Python Extension.
+	at _.installPythonExtensionViaKernelPicker (/root/.vscode-server/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2234164)
+	at async s.h (/root/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/workbench/api/node/extensionHostProcess.js:94:107614)]
+error 18:44:51.893: Failed to install Python Extension via Kernel Picker command
+warn 18:44:51.894: DataScience Error [Error: Failed to install the Python Extension.
+	at _.installPythonExtensionViaKernelPicker (/root/.vscode-server/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2234164)
+	at async s.h (/root/.vscode-server/bin/1ad8d514439d5077d2b0b7ee64d2ce82a9308e5a/out/vs/workbench/api/node/extensionHostProcess.js:94:107614)]
+info 19:51:00.029: Find preferred kernel for /home/anarch40z/machine-learning/pertemuan2/visualisasi/visualisasi.ipynb with metadata {"kernelspec":{"display_name":"Python 3.8.10 64-bit","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.10"},"vscode":{"interpreter":{"hash":"916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1"}}} & preferred interpreter <undefined>
+info 19:51:00.030: Find preferred kernel for /home/anarch40z/machine-learning/pertemuan2/visualisasi/visualisasi.ipynb with metadata {"kernelspec":{"display_name":"Python 3.8.10 64-bit","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.10"},"vscode":{"interpreter":{"hash":"916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1"}}} & preferred interpreter <undefined>
+info 19:52:29.911: Shutting down notebooks for 33036db9-e64d-43b7-b5f9-b68fef4c755e
+info 19:52:29.911: Disposing HostJupyterExecution d06627b8-54a7-4901-9c89-d3f55d86c193
+info 19:52:29.911: Disposing super HostJupyterExecution d06627b8-54a7-4901-9c89-d3f55d86c193
+info 19:52:29.911: Disposing HostJupyterExecution d06627b8-54a7-4901-9c89-d3f55d86c193
+info 19:52:29.911: Finished disposing HostJupyterExecution  d06627b8-54a7-4901-9c89-d3f55d86c193
+info 19:52:29.917: Cleaning up server cache d06627b8-54a7-4901-9c89-d3f55d86c193
+info 19:52:29.918: Finished disposing HostJupyterExecution  d06627b8-54a7-4901-9c89-d3f55d86c193
